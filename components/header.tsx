@@ -12,7 +12,7 @@ export default function Header() {
   return (
     <header className="flex justify-between items-center mb-8">
       <Link href="/">
-        <h1 className="text-3xl font-bold">ShopEasy</h1>
+        <h1 className="text-3xl font-bold">Easy Shopping</h1>
       </Link>
       <Link href="/cart">
         <Button variant="outline" size="icon" className="relative">
